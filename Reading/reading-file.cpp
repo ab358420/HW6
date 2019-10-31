@@ -3,7 +3,8 @@
 #include<string>
 using namespace std;
 
-#define FILE_PATH "~/TESTING_APPS/Reading"
+// was #define FILE_PATH "~/TESTING_APPS/Reading"
+#define FILE_PATH "home/debian/TESTING_APPS/Reading"
 
 int main(int argc, char* argv[])
 {
