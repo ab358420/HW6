@@ -3,7 +3,8 @@
 #include<string>
 using namespace std;
 
-#define FILE_PATH "~/TESTING_APPS/Writing"
+//was #define FILE_PATH "~/TESTING_APPS/Writing"; forgot to add writing-file_OFFICIAL.cpp but this was only change made
+#define FILE_PATH "/home/debian/TESTING_APPS/Writing"
 
 int main(int argc, char* argv[]){
 if (argc!=2){
